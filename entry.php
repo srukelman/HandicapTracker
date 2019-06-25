@@ -84,7 +84,7 @@ echo "</select>";
 ?>
 
 <br>
- <input type="radio" name="favman" value="man" class = "input">Manually enter slope and rating<br>
+ <input type="radio" name="favman" value="man">Manually enter slope and rating<br>
   Rating:<br>
   <input type="text" name="rating" placeholder = "Rating" class = "input">
   <br>
